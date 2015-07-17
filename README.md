@@ -19,5 +19,5 @@ Mograph is treated as many individual objects of clones.
 Select "Connector" inside example c4d file, and choose "File>Save Object Preset" to use in other scenes quickly.
 
 ## memo about Spline Settings
-As all splines are segmented, Interpolation types are not useful...
+As all splines are segmented, Interpolation types are not useful...  
 But subdivide settings works fine when you work with deformers.
