@@ -1,7 +1,7 @@
 ## ConnectorC4D
 Python Generator for Cinema 4D.  
 Gennerates splines to connect all targets in the list.  
-Mograph is treated as many individual objects of clones.
+Mographs are treated as many individual objects of clones.
 
 ## Simple Usage
 1. Select "User Data" tab of the Connector.
